@@ -1,1 +1,139 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","id":"flora_invasora_eeiko2.3192","geometry":{"type":"MultiPolygon","coordinates":[[[[-3.4922293,43.41939186],[-3.4922293,43.41944732],[-3.49215715,43.41944732],[-3.49215715,43.41939186],[-3.4922293,43.41939186]]]]},"geometry_name":"the_geom","properties":{"gid":3192,"cat_1":"Sin actuacion","minx":-3.4922293008143206,"miny":43.41939185564065,"maxx":-3.4921571548680648,"maxy":43.41944731677182,"invasora_id":3968,"especie_2":null,"cat_2":null,"especie_3":null,"cat_3":null,"especie_4":null,"cat_4":null,"n_personas":0,"coste":null,"superficie":36,"restaurado":null,"explica":null,"obser":null,"eficacia":100,"especie_1":"Cortaderia selloana","vigente":0,"fecha":"2019-06-09Z","n_horas_maquinaria":null,"gestion_restos":null,"restauracion_prevista":null}},{"type":"Feature","id":"flora_invasora_eeiko2.3194","geometry":{"type":"MultiPolygon","coordinates":[[[[-3.4922293,43.41939186],[-3.4922293,43.41944732],[-3.49215715,43.41944732],[-3.49215715,43.41939186],[-3.4922293,43.41939186]]]]},"geometry_name":"the_geom","properties":{"gid":3194,"cat_1":"Sin actuacion","minx":-3.4922293008143206,"miny":43.41939185564065,"maxx":-3.4921571548680648,"maxy":43.41944731677182,"invasora_id":3968,"especie_2":null,"cat_2":null,"especie_3":null,"cat_3":null,"especie_4":null,"cat_4":null,"n_personas":null,"coste":null,"superficie":36,"restaurado":null,"explica":null,"obser":null,"eficacia":100,"especie_1":"Cortaderia selloana","vigente":1,"fecha":"2019-06-09Z","n_horas_maquinaria":null,"gestion_restos":null,"restauracion_prevista":null}}],"totalFeatures":2,"numberMatched":2,"numberReturned":2,"timeStamp":"2025-02-09T11:37:13.487Z","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::4326"}}}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "flora_invasora_eeiko2.3192",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -3.4922293,
+                                43.41939186
+                            ],
+                            [
+                                -3.4922293,
+                                43.41944732
+                            ],
+                            [
+                                -3.49215715,
+                                43.41944732
+                            ],
+                            [
+                                -3.49215715,
+                                43.41939186
+                            ],
+                            [
+                                -3.4922293,
+                                43.41939186
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "gid": 3192,
+                "cat_1": "Sin actuacion",
+                "minx": -3.4922293008143206,
+                "miny": 43.41939185564065,
+                "maxx": -3.4921571548680648,
+                "maxy": 43.41944731677182,
+                "invasora_id": 3968,
+                "especie_2": null,
+                "cat_2": null,
+                "especie_3": null,
+                "cat_3": null,
+                "especie_4": null,
+                "cat_4": null,
+                "n_personas": 0,
+                "coste": null,
+                "superficie": 36,
+                "restaurado": null,
+                "explica": null,
+                "obser": null,
+                "eficacia": 100,
+                "especie_1": "Cortaderia selloana",
+                "vigente": 0,
+                "fecha": "2019-06-09Z",
+                "n_horas_maquinaria": null,
+                "gestion_restos": null,
+                "restauracion_prevista": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "flora_invasora_eeiko2.3194",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -3.4922293,
+                                43.41939186
+                            ],
+                            [
+                                -3.4922293,
+                                43.41944732
+                            ],
+                            [
+                                -3.49215715,
+                                43.41944732
+                            ],
+                            [
+                                -3.49215715,
+                                43.41939186
+                            ],
+                            [
+                                -3.4922293,
+                                43.41939186
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "the_geom",
+            "properties": {
+                "gid": 3194,
+                "cat_1": "Sin actuacion",
+                "minx": -3.4922293008143206,
+                "miny": 43.41939185564065,
+                "maxx": -3.4921571548680648,
+                "maxy": 43.41944731677182,
+                "invasora_id": 3968,
+                "especie_2": null,
+                "cat_2": null,
+                "especie_3": null,
+                "cat_3": null,
+                "especie_4": null,
+                "cat_4": null,
+                "n_personas": null,
+                "coste": null,
+                "superficie": 36,
+                "restaurado": null,
+                "explica": null,
+                "obser": null,
+                "eficacia": 100,
+                "especie_1": "Cortaderia selloana",
+                "vigente": 1,
+                "fecha": "2019-06-09Z",
+                "n_horas_maquinaria": null,
+                "gestion_restos": null,
+                "restauracion_prevista": null
+            }
+        }
+    ],
+    "totalFeatures": 2,
+    "numberMatched": 2,
+    "numberReturned": 2,
+    "timeStamp": "2025-02-09T11:37:13.487Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}
