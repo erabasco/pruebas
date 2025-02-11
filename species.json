@@ -1,0 +1,74 @@
+{
+  "taxonomy": {
+    "name": "Specimen::TAXONOMY",
+    "updated_at": "now"
+  },
+  "categories": [
+    {
+      "taxonomy_id": "taxonomy_id",
+      "slug": "A",
+      "translations": {
+        "locale": "es",
+        "name": "A"
+      }
+    },
+    {
+      "taxonomy_id": "taxonomy_id",
+      "slug": "B",
+      "translations": {
+        "locale": "es",
+        "name": "B"
+      }
+    }
+  ],
+  "species": [
+    { "name": "Abutilon theophrasti", "categories": ["B"] },
+    { "name": "Acacia dealbata", "categories": ["B"] },
+    { "name": "Acacia melanoxylon", "categories": ["B"] },
+    { "name": "Ailanthus altissima", "categories": ["B"] },
+    { "name": "Amaranthus sp", "categories": ["B"] },
+    { "name": "Amaranthus albus", "categories": ["B"] },
+    { "name": "Amaranthus cruentus", "categories": ["B"] },
+    { "name": "Amaranthus deflexus", "categories": ["B"] },
+    { "name": "Amaranthus graecizans subsp. silvestris", "categories": ["B"] },
+    { "name": "Amaranthus hybridus", "categories": ["B"] },
+    { "name": "Amaranthus hypochondriacus", "categories": ["B"] },
+    { "name": "Amaranthus powellii", "categories": ["B"] },
+    { "name": "Amaranthus retroflexus", "categories": ["B"] },
+    { "name": "Arctotheca calendula", "categories": ["B"] },
+    { "name": "Artemisia verlotiorum", "categories": ["B"] },
+    { "name": "Arundo donax", "categories": ["B"] },
+    { "name": "Aster squamatus", "categories": ["B"] },
+    { "name": "Baccharis halimifolia", "categories": ["A"] },
+    { "name": "Bidens aurea", "categories": ["B"] },
+    { "name": "Bidens frondosa", "categories": ["B"] },
+    { "name": "Bromus catharticus", "categories": ["B"] },
+    { "name": "Buddleja davidii", "categories": ["A"] },
+    { "name": "Carpobrotus edulis", "categories": ["A"] },
+    { "name": "Centranthus ruber subsp. ruber", "categories": ["B"] },
+    { "name": "Chenopodium ambrosioides", "categories": ["B"] },
+    { "name": "Coleostephus myconis", "categories": ["B"] },
+    { "name": "Conyza sp", "categories": ["A"] },
+    { "name": "Conyza bonariensis", "categories": ["B"] },
+    { "name": "Conyza canadensis", "categories": ["A"] },
+    { "name": "Conyza sumatrensis", "categories": ["A"] },
+    { "name": "Coronopus didymus", "categories": ["B"] },
+    { "name": "Cortaderia selloana", "categories": ["A"] },
+    { "name": "Crocosmia x crocosmiiflora", "categories": ["B"] },
+    { "name": "Cymbalaria muralis subsp muralis", "categories": ["B"] },
+    { "name": "Cyperus eragrostis", "categories": ["A"] },
+    { "name": "Datura stramonium", "categories": ["B"] },
+    { "name": "Dichondra micrantha", "categories": ["B"] },
+    { "name": "Dittrichia viscosa subsp viscosa", "categories": ["B"] },
+    { "name": "Duchesnea indica", "categories": ["B"] },
+    { "name": "Echinochloa crus-galli", "categories": ["B"] },
+    { "name": "Eragrostis virescens", "categories": ["B"] },
+    { "name": "Erigeron karvinskianus", "categories": ["B"] },
+    { "name": "Fallopia japonica", "categories": ["A"] },
+    { "name": "Otra especie (anadir en notas)", "categories": null },
+    { "name": "Ulex europaeus", "categories": null },
+    { "name": "Hedychium coronarium", "categories": null },
+    { "name": "Thumbergia alata", "categories": null },
+    { "name": "Leucaena leucephala", "categories": null }
+  ]
+}
