@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "seguimiento_eeiko2.5404",
+            "geometry": null,
+            "properties": {
+                "gid": 5404,
+                "actuacion_id": 3918,
+                "ocupacion_1": "0",
+                "ocupacion_2": "0",
+                "ocupacion_3": "0",
+                "ocupacion_4": "0",
+                "otras_especies": null,
+                "ocupacion_otras": null,
+                "responsable": null,
+                "observaciones": null,
+                "especie_1": "Cortaderia selloana",
+                "especie_2": null,
+                "especie_3": null,
+                "especie_4": null,
+                "superficie": 36.18,
+                "vigente": 1,
+                "fecha": "2019-09-30Z",
+                "tipo_distribucion": null,
+                "porte_medio": null,
+                "n_plumeros": null
+            }
+        }
+    ],
+    "totalFeatures": 1,
+    "numberMatched": 1,
+    "numberReturned": 1,
+    "timeStamp": "2025-02-12T17:31:17.607Z",
+    "crs": null
+}
