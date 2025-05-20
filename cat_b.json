@@ -1,115 +1,15 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -0.43938184876819264,
-          40.11175826907396
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -0.48689820975266684,
-          40.17242467654464
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          0.05948901518024741,
-          38.815029396008356
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -0.35967659918071604,
-          38.67780274253809
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -0.36731190642171896,
-          38.56040473303193
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          1.2870901016388245,
-          43.490802065424845
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          2.2532880178449375,
-          42.96442220468441
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          1.2295497826832502,
-          43.271460410490164
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -8.866366078421777,
-          37.18513221757824
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -8.9166195062447,
-          37.20298000426813
-        ],
-        "type": "Point"
-      }
-    }
+    { "type": "Feature", "properties": { "id": 1, "categoria": "urbano", "activo": true, "valor": 12.3 }, "geometry": { "coordinates": [-0.43938184876819264, 40.11175826907396], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 2, "categoria": "rural", "activo": false, "valor": 8.6 }, "geometry": { "coordinates": [-0.48689820975266684, 40.17242467654464], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 3, "categoria": "industrial", "activo": true, "valor": 17.9 }, "geometry": { "coordinates": [0.05948901518024741, 38.815029396008356], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 4, "categoria": "natural", "activo": false, "valor": 4.2 }, "geometry": { "coordinates": [-0.35967659918071604, 38.67780274253809], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 5, "categoria": "urbano", "activo": true, "valor": 10.5 }, "geometry": { "coordinates": [-0.36731190642171896, 38.56040473303193], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 6, "categoria": "industrial", "activo": true, "valor": 23.1 }, "geometry": { "coordinates": [1.2870901016388245, 43.490802065424845], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 7, "categoria": "natural", "activo": false, "valor": 9.7 }, "geometry": { "coordinates": [2.2532880178449375, 42.96442220468441], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 8, "categoria": "rural", "activo": true, "valor": 6.8 }, "geometry": { "coordinates": [1.2295497826832502, 43.271460410490164], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 9, "categoria": "natural", "activo": false, "valor": 3.3 }, "geometry": { "coordinates": [-8.866366078421777, 37.18513221757824], "type": "Point" } },
+    { "type": "Feature", "properties": { "id": 10, "categoria": "urbano", "activo": true, "valor": 15.0 }, "geometry": { "coordinates": [-8.9166195062447, 37.20298000426813], "type": "Point" } }
   ]
 }
