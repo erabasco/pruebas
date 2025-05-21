@@ -1,15 +1,165 @@
 {
   "type": "FeatureCollection",
   "features": [
-    { "type": "Feature", "properties": { "id": 1, "tipo": "observación", "prioridad": 3, "verificado": true, "usuario": "user_1" }, "geometry": { "coordinates": [0.42364045430437614, 41.73096243593082], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 2, "tipo": "reporte", "prioridad": 2, "verificado": false, "usuario": "user_2" }, "geometry": { "coordinates": [-2.3032356840458306, 39.37909270373402], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 3, "tipo": "registro", "prioridad": 5, "verificado": true, "usuario": "user_3" }, "geometry": { "coordinates": [-6.325392421805418, 39.84320131278443], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 4, "tipo": "alerta", "prioridad": 4, "verificado": false, "usuario": "user_4" }, "geometry": { "coordinates": [-5.03366073060576, 36.94273654062903], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 5, "tipo": "evento", "prioridad": 1, "verificado": true, "usuario": "user_5" }, "geometry": { "coordinates": [-8.541705709913288, 42.78612320441596], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 6, "tipo": "observación", "prioridad": 2, "verificado": true, "usuario": "user_6" }, "geometry": { "coordinates": [-7.685820894272808, 43.022130036167596], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 7, "tipo": "reporte", "prioridad": 3, "verificado": false, "usuario": "user_7" }, "geometry": { "coordinates": [-7.978103486603999, 42.89681225262956], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 8, "tipo": "registro", "prioridad": 4, "verificado": true, "usuario": "user_8" }, "geometry": { "coordinates": [-6.199276578326135, 39.96193924222797], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 9, "tipo": "alerta", "prioridad": 5, "verificado": false, "usuario": "user_9" }, "geometry": { "coordinates": [-1.3198681599199915, 39.07515148155818], "type": "Point" } },
-    { "type": "Feature", "properties": { "id": 10, "tipo": "evento", "prioridad": 1, "verificado": true, "usuario": "user_10" }, "geometry": { "coordinates": [0.45592929395542114, 42.0311640073152], "type": "Point" } }
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "tipo": "observación",
+        "prioridad": 3,
+        "verificado": true,
+        "usuario": "user_1",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [0.42364045430437614, 41.73096243593082],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "tipo": "reporte",
+        "prioridad": 2,
+        "verificado": false,
+        "usuario": "user_2",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-2.3032356840458306, 39.37909270373402],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "tipo": "registro",
+        "prioridad": 5,
+        "verificado": true,
+        "usuario": "user_3",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-6.325392421805418, 39.84320131278443],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "tipo": "alerta",
+        "prioridad": 4,
+        "verificado": false,
+        "usuario": "user_4",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-5.03366073060576, 36.94273654062903],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "tipo": "evento",
+        "prioridad": 1,
+        "verificado": true,
+        "usuario": "user_5",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-8.541705709913288, 42.78612320441596],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "tipo": "observación",
+        "prioridad": 2,
+        "verificado": true,
+        "usuario": "user_6",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-7.685820894272808, 43.022130036167596],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "tipo": "reporte",
+        "prioridad": 3,
+        "verificado": false,
+        "usuario": "user_7",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-7.978103486603999, 42.89681225262956],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "tipo": "registro",
+        "prioridad": 4,
+        "verificado": true,
+        "usuario": "user_8",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-6.199276578326135, 39.96193924222797],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "tipo": "alerta",
+        "prioridad": 5,
+        "verificado": false,
+        "usuario": "user_9",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [-1.3198681599199915, 39.07515148155818],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "tipo": "evento",
+        "prioridad": 1,
+        "verificado": true,
+        "usuario": "user_10",
+        "imagen_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png",
+        "link_1": "https://geoinnova.org/wp-content/uploads/2025/02/Italy_Inspire_Catastral_Downloader.png"
+      },
+      "geometry": {
+        "coordinates": [0.45592929395542114, 42.0311640073152],
+        "type": "Point"
+      }
+    }
   ]
 }
