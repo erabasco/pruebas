@@ -334,8 +334,7 @@
         "lat": 39.6071059589863,
         "link_cat_fachada": "http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=07040A007000280000RR",
         "link_cat_mapa": "https://www1.sedecatastro.gob.es/Cartografia/mapa.aspx?del=07&mun=40&refcat=07040A007000280000RR",
-        "link_catastro": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCConCiud.awtextra?RefC=07040A007000280000RR&from=OVCBusqueda&pest=rc&RCCompleta=2405505VK3520S
-&RCCompleta=2405505VK3520S024PK&final=&del=07&mun=40",
+        "link_catastro": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCConCiud.awtextra?RefC=07040A007000280000RR&from=OVCBusqueda&pest=rc&RCCompleta=2405505VK3520S&RCCompleta=2405505VK3520S024PK&final=&del=07&mun=40",
         "link_googlemap": "https://www.google.com/maps?q=39.6071059589863,2.61190874281736",
         "lon": 2.61190874281736,
         "op_asking_price": 0.0,
