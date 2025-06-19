@@ -1,6 +1,3 @@
-Aquí está el GeoJSON válido basado en tus datos:
-
-```json
 {
   "type": "FeatureCollection",
   "features": [
