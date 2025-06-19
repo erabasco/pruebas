@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-7.85805312849885, 42.3532900322705]
+        "coordinates": [
+          -7.85805312849885,
+          42.3532900322705
+        ]
       },
       "properties": {
         "act_deuda": 0.0,
